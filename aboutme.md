@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Kiyumars likes to code and wear brown clothes
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Philip Kiyumars Maessoumi, and I work as a full stack developer. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My preferred tech stack is a Golang backend, a simple react.js frontend, and an unobtrusive CSS framework like Spectre or bulma.
 
-What else do you need?
+I also like to coach those who come from non-technical backgrounds to beginner programming / web dev concepts.
 
-### my history
+Another interest is creative writing. I am the main organizer of Shut Up and Write in Berlin, where we follow the pomodoro technique of having concentrated writing sessions with scheduled breaks.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+And yes, I really do like brown. A close second is purple.
