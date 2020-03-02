@@ -6,7 +6,7 @@ subtitle: Kiyumars likes to code and wear brown clothes
 
 My name is Philip Kiyumars Maessoumi, and I work as a full stack developer. 
 
-My preferred tech stack is a Golang backend, a simple react.js frontend, and an unobtrusive CSS framework like Spectre or bulma.
+My preferred tech stack is a Golang backend, a simple React frontend, and an unobtrusive CSS framework like Spectre or bulma.
 
 I also like to coach those who come from non-technical backgrounds to beginner programming / web dev concepts.
 
